@@ -1,0 +1,1 @@
+{"version":3,"file":"bank-payment.page.js","sourceRoot":"","sources":["../../../src/page/bank-payment.page.ts"],"names":[],"mappings":";;;;;;;;;;;AAAA,2CAA8C;AAE9C,MAAa,eAAe;IAG1B;QACE,IAAI,CAAC,WAAW,GAAG,cAAC,CAAC,gDAAgD,CAAC,CAAC;IACzE,CAAC;IAEY,eAAe;;YAC1B,MAAM,IAAI,CAAC,WAAW,CAAC,KAAK,EAAE,CAAC;QACjC,CAAC;KAAA;CACF;AAVD,0CAUC"}
